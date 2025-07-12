@@ -10,11 +10,11 @@ It ranks brands based on performance metrics like range, speed, battery, torque,
 - Acceleration (0-100 km/h in seconds)
 - Torque (Nm)
 - Efficiency (Wh/km)
-fast charging power(kw)
+- fast charging power(kw)
 
 ## Tools Used
 - Python (Jupyter Notebook)
-- pandas, matplotlib, seaborn
+- pandas, matplotlib, seaborn, numpy
 - Anaconda Navigator
 
 ## Outcome
